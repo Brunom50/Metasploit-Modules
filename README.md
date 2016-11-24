@@ -11,4 +11,4 @@ Copyright (C) 2016 by Bruno Ramos (bruno.50.ramos at gmail dot com)
 
 Contributors
 
-Jose Fonseca (jozefonseca at gmail dot com)
+Jose Fonseca (josefonseca at ipg dot com)
